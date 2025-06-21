@@ -1,6 +1,29 @@
-# Welcome to your Expo app 👋
 
+# 🍽️ Recipe App (React Native)
+
+Welcome to your Expo app 👋  
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+---
+
+## 📱 Overview
+
+A full-featured mobile recipe application built with React Native. Users can explore recipes, search, save favorites, and view detailed instructions — all inside a clean, responsive mobile interface.
+
+---
+
+## 🎯 Features
+
+- 🔐 Authentication (Sign In / Sign Up)
+- 🧭 Tab Navigation (Home, Search, Favorites)
+- 🏠 Home screen showcasing recipes
+- 🔍 Search screen with filtering
+- ❤️ Favorites screen with saved items
+- 📖 Recipe detail view with instructions
+- 🖼️ Custom assets and fonts
+- 📲 Android & iOS support (via Expo)
+
+
 
 ## Get started
 
