@@ -1,4 +1,3 @@
-
 # 🍽️ Recipe App (React Native)
 
 Welcome to your Expo app 👋  
@@ -23,8 +22,17 @@ A full-featured mobile recipe application built with React Native. Users can exp
 - 🖼️ Custom assets and fonts
 - 📲 Android & iOS support (via Expo)
 
+---
 
+## 📸 Screenshots
 
+| Home Screen | Search Screen | Recipe Detail |
+|-------------|----------------|----------------|
+| ![Home](./assets/screenshots/home.png) | ![Search](./assets/screenshots/search.png) | ![Detail](./assets/screenshots/detail.png) |
+
+> 💡 Place your screenshots in the `assets/screenshots` folder. Update paths if your structure differs.
+
+---
 ## Get started
 
 1. Install dependencies
