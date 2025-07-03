@@ -26,9 +26,14 @@ A full-featured mobile recipe application built with React Native. Users can exp
 
 ## 📸 Screenshots
 
-| Home Screen | Search Screen | Recipe Detail |
-|-------------|----------------|----------------|
-| ![Home](./assets/screenshots/home.png) | ![Search](./assets/screenshots/search.png) | ![Detail](./assets/screenshots/detail.png) |
+### 🏠 Home Screen  
+![Home](./assets/screenshots/home.jpg)
+
+### 🔍 Search Screen  
+![Search](./assets/screenshots/search.jpg)
+
+### 📖 Recipe Detail  
+![Detail](./assets/screenshots/detail.jpg)
 
 > 💡 Place your screenshots in the `assets/screenshots` folder. Update paths if your structure differs.
 
